@@ -3,7 +3,7 @@
 
 ### Starting a new grunt project
 
-Starting a new grunt starter project is simple.
+Now starting a grunt project from scratch is easy.
 
 ```shell
 # clone the repo
