@@ -1,4 +1,3 @@
-
 # grunt-starter
 
 ### Starting a new grunt project
@@ -10,5 +9,5 @@ Now starting a grunt project from scratch is easy.
 git clone git@github.com:briangonzalez/grunt-starter.git   
 
 # install all dependencies defined in package.json    
-npm install         
+npm install --save-dev         
 ````
